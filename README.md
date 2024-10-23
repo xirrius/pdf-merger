@@ -6,7 +6,7 @@ This app can merge two different pdf files.
 
 1. Run 'npm install'
 2. Run 'nodemon index.js'
-3. Navigate to the broswer window
+3. Navigate to the browser window
 
 ###### Note
 
